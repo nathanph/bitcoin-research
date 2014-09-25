@@ -3,7 +3,7 @@ bitcoin-research
 
 S-STEM Research Project  
 
-# Nathan Hernandez
+## Nathan Hernandez
 Resources for Nathan Hernandez
 
 **S-STEM Bitcoin Address**  
@@ -13,7 +13,7 @@ Resources for Nathan Hernandez
 https://github.com/nathanph/Cryptocurrency.git  
 
 
-# Cameron Nordan
+## Cameron Nordan
 Resources for Cameron Nordan
 
 **S-STEM Bitcoin Address**  
@@ -23,7 +23,7 @@ Resources for Cameron Nordan
 TBA
 
 
-# Nicole Loew
+## Nicole Loew
 Resources for Nicole Loew
 
 
@@ -34,7 +34,7 @@ Resources for Nicole Loew
 TBA
 
 
-# Robert Compton
+## Robert Compton
 Resources for Robert Compton
 
 **S-STEM Bitcoin Address**  
