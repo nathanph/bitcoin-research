@@ -14,6 +14,7 @@ https://github.com/nathanph/Cryptocurrency.git
 
 
 # Cameron Nordan
+Resources for Cameron Nordan
 
 **S-STEM Bitcoin Address**  
 1GWe2jhED3Jsjpzy3atk8LoSAy9LcaNgaW  
@@ -23,6 +24,8 @@ TBA
 
 
 # Nicole Loew
+Resources for Nicole Loew
+
 
 **S-STEM Bitcoin Address**  
 1b1MC8tRVxuivNANVAp7eTdmUjL5XuoJr  
@@ -32,6 +35,7 @@ TBA
 
 
 # Robert Compton
+Resources for Robert Compton
 
 **S-STEM Bitcoin Address**  
 15aiCgrUWGu3vAg18UB2sHbpAbS5VPTh7d  
