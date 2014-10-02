@@ -1,0 +1,3 @@
+[submodule "Cameron"]
+	path = Cameron
+	url = https://github.com/nordancm/CryptoCode.git
