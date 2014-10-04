@@ -4,3 +4,6 @@
 [submodule "Nathan"]
 	path = Nathan
 	url = https://github.com/nathanph/Cryptocurrency
+[submodule "Nicole"]
+	path = Nicole
+	url = https://github.com/loewna/BitcoinResearch.git
