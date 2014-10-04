@@ -1,3 +1,6 @@
 [submodule "Cameron"]
 	path = Cameron
 	url = https://github.com/nordancm/CryptoCode.git
+[submodule "Nathan"]
+	path = Nathan
+	url = https://github.com/nathanph/Cryptocurrency
